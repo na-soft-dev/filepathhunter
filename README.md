@@ -85,7 +85,7 @@ tar xzf FilepathHunter-v*.tar.gz
 
 3. Right-click icon on sidebar or taskbar, pin or add to favorites
 
-### (Optional) Run from Terminal
+### (Optional) Run from Terminal (Linux)
 
 Thanks to the automated `install.sh` script, Filepath Hunter integrates directly into your system. You can also launch it from terminal:
 
