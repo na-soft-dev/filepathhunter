@@ -1,0 +1,41 @@
+Filepath Hunter - Changelog
+==================================================
+
+[0.90] 2026-06-04
+
+Added
+
+- Bookmarks and Bookmark Manager
+- CPU Speed
+
++·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·+
+
+[0.87] 2026-06-03
+
+Added
+
+- Normal mode capped to 100k results and uncapped deep mode to see the true total but still keeping the UI at a safe level
+- Open in terminal right click context menu option for search results
+- Critical hits on some successful hunts
+
++·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·+
+
+[0.85] 2026-06-02
+
+Added
+
+- Export all results to a text file.
+- Right click context menu on search results with the items: Open file, Open location, Copy path, Copy filename.
+- Multi-flavor Drag & Drop integration (supports path text and native file descriptors for system explorers/communication apps).
+
+Changed
+
+- Improved error handling with more Toast errors and simpler messages.
+
++·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·+
+
+[0.81] 2026-06-01
+
+Added
+
+- Fallback to display CPU temperature from HWiINFO64, if it is running.
