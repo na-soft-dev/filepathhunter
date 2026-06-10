@@ -1,6 +1,10 @@
 # Filepath Hunter 🎯
 **"File Explorers Crawl. I speedrun."**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8a3be68-9390-49f9-85dd-f982a7d74afb" width="650" alt="Filepath Hunter Cover">
+</p>
+
 *Blazing fast, multi-threaded file search.*
 
 ## 🏹 The High-Performance Search Utility
@@ -23,6 +27,10 @@ In real-world testing, searching for the term `"python"` across the entire root 
 * **19 Curated Themes:** Fully customizable graphical interface including Dracula, Nord, Gruvbox, One Dark, and more.
 * **Hardware Telemetry:** Real-time monitoring of per-core CPU utilization, temperature, and clock speed.
 
+<p align="center">
+  <img width="650" alt="features" src="https://github.com/user-attachments/assets/67be0c25-e799-4ee7-a502-4dc6b2f4152e" />
+</p>
+
 <details>
 <summary><b>🛠️ Click here to view the Full Feature List</b></summary>
 
@@ -36,6 +44,12 @@ In real-world testing, searching for the term `"python"` across the entire root 
 ### 🎨 Look & Feel
 * **Fluid UI:** Smooth rendering animations with active accent color awareness.
 * **Modern Rendering:** Sub-pixel antialiasing ensuring crisp typography across all desktop environments.
+
+| Mac Dark Theme | Light Cyan Theme |
+| :-: | :-: |
+| <img width="350" src="https://github.com/user-attachments/assets/b2e99958-e303-4715-bf65-e277a79345b9"> | <img width="350" src="https://github.com/user-attachments/assets/b1839fcd-aac6-4149-96f9-1751109df7cb"> |
+| Material Moonlight Theme | Material Monokai Pro Theme |
+| <img width="350" src="https://github.com/user-attachments/assets/e8bbe857-365d-419a-baca-3cef5f5046ec"> | <img src="https://github.com/user-attachments/assets/5ceb5635-bb80-4c16-bcfa-388f9acf9fef" width="350"> |
 
 ### 🖥️ System Integration
 * **Drag-and-Drop:** Full native support for dropping files and folders.
