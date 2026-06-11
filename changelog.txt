@@ -1,5 +1,16 @@
 Filepath Hunter - Changelog
-==================================================
+===========================
+
+[0.91] 2026-06-11
+
+Changed
+
+- Fixed a rare race condition desync between threads during loading.
+- Added extra safety checks in the system information panel.
+- Improved thread safety in sound handling and hardware data polling.
+- Improved size constraints of bookmarks dialog.
+
+---
 
 [0.90] 2026-06-04
 
@@ -8,7 +19,7 @@ Added
 - Bookmarks and Bookmark Manager
 - CPU Speed
 
-+·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·+
+---
 
 [0.87] 2026-06-03
 
@@ -18,7 +29,7 @@ Added
 - Open in terminal right click context menu option for search results
 - Critical hits on some successful hunts
 
-+·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·+
+---
 
 [0.85] 2026-06-02
 
@@ -32,7 +43,7 @@ Changed
 
 - Improved error handling with more Toast errors and simpler messages.
 
-+·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·-·+
+---
 
 [0.81] 2026-06-01
 
